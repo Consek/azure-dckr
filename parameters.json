@@ -1,0 +1,8 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+    "adminUserName": { "value": "consek" },
+    "sshKeyData": { "value": "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAg/YRrlmyKpLjuxtZI3fdSAVKYTxw8+Jt0L/F8UMddiHY8l8Kj5gInrzb3/f0lpCOfdsU4FPekrO26g4SeXBX/vv78lxWIR+P++eJAAoaLv8OV1LVDfW+AocuICJr6Mvw3Fnc4SziWCylTCXxDKiNBmHQ8nhYSDRQoWy5lQKOYxwrpNtimuGgmsyp4isFZaAZbv+IFHbXo570l5PzsBjrFfMNQ7y5W9nRAkEPIopLG737EMmLI98y8vJ2JZg7kc25u+c1aYNLNZquX9VRw99RcBMFGd0ax0bnrYIyOylq85ASizTkNI+fGF/gknTOl5Gju5cmRjOGm7Uz8PC4HEeTOw== rsa-key-20180210" }
+    }
+}
